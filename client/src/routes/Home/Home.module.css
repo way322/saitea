@@ -176,12 +176,13 @@ body {margin: 0px;}
 .cartButton {
     background-color: transparent;
     border: 0px;
+    cursor: pointer;
 }
 
 .favoriteButton {
     background-color: transparent;
     border: 0px;
-
+    cursor: pointer;
 }
 
 
